@@ -1,3 +1,4 @@
+repository: ContinuousTeacherStudent/ContinuousTeacherStudent.github.io
 theme: jekyll-theme-slate
 title: Teacher-Student Automated Curriculum Learning in Continuously Parameterized Environments
-description: TODO website
+description: Additional videos for CoRL 2019 paper submission
